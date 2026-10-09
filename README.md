@@ -1,6 +1,6 @@
 Problem Statement - Enhancing Navigation for Railway Station Facilities and Locations.
 
-Proposed Solution - A comprehensive navigation system was developed to provide real-time directions and passenger's dynamic movements, detailed geographical maps of stations, and accessibility options for all passengers to move to the facilities like Reservation Counter, Waiting Areas, food courts, Retiring rooms etc.
+Proposed Solution - A navigation system was developed to provide real-time directions and passenger's dynamic movements, detailed geographical maps of stations, and accessibility options for all passengers to move to the facilities like Reservation Counter, Waiting Areas, food courts, Retiring rooms etc.
 A mobile application was made to meet the needs of Railway Station Navigation and to improve accessibility to it for the passengers.
 
 Mobile app user flow: ✨ 
